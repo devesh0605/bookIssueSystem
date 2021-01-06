@@ -1,0 +1,6 @@
+Welcome to Hellfire Book Depot !!!! 
+Name of the book = Percy Jackson
+Cost of the book = 275
+Copies issued    = 12
+Total cost       = 3300.0
+Thank you for shopping with us. Come again!!
